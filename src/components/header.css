@@ -1,0 +1,22 @@
+header{
+    position: fixed;
+    width: 100%;
+    top: 20px;
+    z-index: 99;
+}
+.header-logo{
+    max-width: 170px;
+}
+.header-nav-menues>.nav-link.active,
+.header-nav-menues>.nav-link:hover{
+    color: var(--theme--base) !important;
+}
+.header-nav-dropdown-menu>.dropdown-item.active,
+.header-nav-dropdown-menu>div>.dropdown-item:hover{
+    color: var(--theme--base-white) !important;
+    background: var(--theme--base);
+}
+.custom-navbar{
+    backdrop-filter: blur(100px);
+    -webkit-backdrop-filter: blur(100px);
+}

@@ -1,0 +1,100 @@
+{
+    "project" :[
+        {
+            "id": "1",
+            "url" : "page-not-found",
+            "img" : "images/project-1.png",
+            "title" : "Historic && Charming Apartment in Central",
+            "location" : "Rupayan City, Uttara, Dhaka.",
+            "salePrice" : "$3500",
+            "offPrice" : "$4200",
+            "beds" : 4,
+            "baths" : 3,
+            "area" : 2000
+        },
+        {
+            "id": "2",
+            "url" : "page-not-found",
+            "img" : "images/project-2.png",
+            "title" : "Historic && Charming Apartment in Central",
+            "location" : "Rupayan City, Uttara, Dhaka.",
+            "salePrice" : "$3500",
+            "offPrice" : "$4200",
+            "beds" : 4,
+            "baths" : 3,
+            "area" : 2000
+        },
+        {
+            "id": "3",
+            "url" : "page-not-found",
+            "img" : "images/project-3.png",
+            "title" : "Historic && Charming Apartment in Central",
+            "location" : "Rupayan City, Uttara, Dhaka.",
+            "salePrice" : "$3500",
+            "offPrice" : "$4200",
+            "beds" : 4,
+            "baths" : 3,
+            "area" : 2000
+        },
+        {
+            "id": "4",
+            "url" : "page-not-found",
+            "img" : "images/project-5.png",
+            "title" : "Historic && Charming Apartment in Central",
+            "location" : "Rupayan City, Uttara, Dhaka.",
+            "salePrice" : "$3500",
+            "offPrice" : "$4200",
+            "beds" : 4,
+            "baths" : 3,
+            "area" : 2000
+        },
+        {
+            "id": "5",
+            "url" : "page-not-found",
+            "img" : "images/project-1.png",
+            "title" : "Historic && Charming Apartment in Central",
+            "location" : "Rupayan City, Uttara, Dhaka.",
+            "salePrice" : "$3500",
+            "offPrice" : "$4200",
+            "beds" : 4,
+            "baths" : 3,
+            "area" : 2000
+        },
+        {
+            "id": "6",
+            "url" : "page-not-found",
+            "img" : "images/project-2.png",
+            "title" : "Historic && Charming Apartment in Central",
+            "location" : "Rupayan City, Uttara, Dhaka.",
+            "salePrice" : "$3500",
+            "offPrice" : "$4200",
+            "beds" : 4,
+            "baths" : 3,
+            "area" : 2000
+        },
+        {
+            "id": "7",
+            "url" : "page-not-found",
+            "img" : "images/project-3.png",
+            "title" : "Historic && Charming Apartment in Central",
+            "location" : "Rupayan City, Uttara, Dhaka.",
+            "salePrice" : "$3500",
+            "offPrice" : "$4200",
+            "beds" : 4,
+            "baths" : 3,
+            "area" : 2000
+        },
+        {
+            "id": "8",
+            "url" : "page-not-found",
+            "img" : "images/project-5.png",
+            "title" : "Historic && Charming Apartment in Central",
+            "location" : "Rupayan City, Uttara, Dhaka.",
+            "salePrice" : "$3500",
+            "offPrice" : "$4200",
+            "beds" : 4,
+            "baths" : 3,
+            "area" : 2000
+        }
+    ]
+}

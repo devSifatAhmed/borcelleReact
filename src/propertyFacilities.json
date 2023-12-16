@@ -1,0 +1,100 @@
+{
+    "facilities" :[
+        {
+            "id": "1",
+            "name" : "Car Parking"
+        },
+        {
+            "id": "2",
+            "name" : "Central AC"
+        },
+        {
+            "id": "3",
+            "name" : "CCTV Camera"
+        },
+        {
+            "id": "4",
+            "name" : "WiFi"
+        },
+        {
+            "id": "5",
+            "name" : "Gym"
+        },
+        {
+            "id": "6",
+            "name" : "Swimming Pool"
+        },
+        {
+            "id": "7",
+            "name" : "Car Parking"
+        },
+        {
+            "id": "8",
+            "name" : "Central AC"
+        },
+        {
+            "id": "9",
+            "name" : "CCTV Camera"
+        },
+        {
+            "id": "10",
+            "name" : "WiFi"
+        },
+        {
+            "id": "11",
+            "name" : "Gym"
+        },
+        {
+            "id": "12",
+            "name" : "Swimming Pool"
+        },
+        {
+            "id": "13",
+            "name" : "Car Parking"
+        },
+        {
+            "id": "14",
+            "name" : "Central AC"
+        },
+        {
+            "id": "15",
+            "name" : "CCTV Camera"
+        },
+        {
+            "id": "16",
+            "name" : "WiFi"
+        },
+        {
+            "id": "17",
+            "name" : "Gym"
+        },
+        {
+            "id": "18",
+            "name" : "Swimming Pool"
+        },
+        {
+            "id": "19",
+            "name" : "Car Parking"
+        },
+        {
+            "id": "20",
+            "name" : "Central AC"
+        },
+        {
+            "id": "21",
+            "name" : "CCTV Camera"
+        },
+        {
+            "id": "22",
+            "name" : "WiFi"
+        },
+        {
+            "id": "23",
+            "name" : "Gym"
+        },
+        {
+            "id": "24",
+            "name" : "Swimming Pool"
+        }
+    ]
+}
